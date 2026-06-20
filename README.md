@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mariamawit! 👋
 
-<!--
-**mariam-enate/mariam-enate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+I am a passionate **Web Designer** and **AI Enthusiast** focused on creating stunning, user-friendly, and accessible web experiences. I love combining modern design trends with cutting-edge AI tools to build efficient digital products.
 
-Here are some ideas to get you started:
+- 🎨 **Design Philosophy:** Clean, minimalist, and user-centric.
+- 🤖 **AI Interest:** Exploring prompt engineering, LLMs, and AI-driven development.
+- 🌱 **Learning:** Always expanding my skills in modern UI/UX principles and frontend tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Design:** Figma, Adobe XD, Photoshop
+- **Web Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **AI & Productivity:** ChatGPT, Claude, Midjourney, v0, GitHub Copilot
+
+### 🤝 Let's Connect!
+- [LinkedIn](https://linkedin.com)
+- [Email](mariam21enate16@gmail.com.com)
